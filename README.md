@@ -6,4 +6,5 @@ $y=sin(x)，tan^{-1}(x)$ のグラフを描く
 set terminal svg
 
 plot sin(x),atan(x)
+
 ```
